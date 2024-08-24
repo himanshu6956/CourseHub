@@ -12,6 +12,7 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Razorpay Integration](#razorpay-integration)
+- [Contact](#contact)
 
 ## Features
 
@@ -29,7 +30,7 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 - **Database:** MongoDB
 - **Payment Gateway:** Razorpay
 - **Authentication:** JWT (JSON Web Tokens)
-- **Others:** Mongoose
+- **Others:** Mongoose,Cloudinary,Nodemailer
 
 ## Setup and Installation
 

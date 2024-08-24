@@ -93,8 +93,8 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 ```
 CourseHub/
 │
-├── backend/              # Backend code
-│   └── server/           #server
+├── backend/                  # Backend code
+│   └── server/               #server
 │       ├── controllers/      # Controllers for handling requests
 │       ├── models/           # Mongoose models
 │       ├── routes/           # Express routes

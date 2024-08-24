@@ -94,7 +94,7 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 CourseHub/
 │
 ├── backend/              # Backend code
-│   ├── server/           #server
+│   └── server/           #server
 │       ├── controllers/      # Controllers for handling requests
 │       ├── models/           # Mongoose models
 │       ├── routes/           # Express routes
@@ -127,11 +127,12 @@ Razorpay is integrated to handle secure payment transactions. Ensure you have yo
 
 For any inquiries or feedback, please reach out to:
 
-- **Name:** Ronak Sharma
-- **Email:** ronaksharma.rk77@gmail.com
-- **GitHub:** [ronakshama77](https://github.com/ronaksharma77)
+- **Name:** Ronak Sharma  
+  **Email:** [ronaksharma.rk77@gmail.com](mailto:ronaksharma.rk77@gmail.com)  
+  **GitHub:** [ronaksharma77](https://github.com/ronaksharma77)
 
-- **Name:** Himanshu Agrawal
-- **Email:** a.himanshu6956@gmail.com
-- **GitHub:** [himanshu6956](https://github.com/himanshu6956)
+- **Name:** Himanshu Agrawal  
+  **Email:** [a.himanshu6956@gmail.com](mailto:a.himanshu6956@gmail.com)  
+  **GitHub:** [himanshu6956](https://github.com/himanshu6956)
+
 

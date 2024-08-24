@@ -38,7 +38,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently \"npm start\" \"cd ../coursehub-server && npm run dev\""
+    "dev": "concurrently \"npm start\" \"cd ../backend/server && npm run dev\""
   },
   "eslintConfig": {
     "extends": [

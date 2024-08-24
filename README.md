@@ -35,7 +35,7 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/CourseHub.git
+    git clone https://github.com/himanshu6956/CourseHub.git
     cd CourseHub
     ```
 

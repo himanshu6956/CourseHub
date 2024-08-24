@@ -42,11 +42,11 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 2. **Install dependencies for both frontend and backend:**
     ```sh
     # For backend
-    cd backend
+    cd backend/server
     npm install
 
     # For frontend
-    cd ../frontend
+    cd ../../frontend
     npm install
     ```
 
@@ -63,11 +63,11 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 4. **Run the application:**
     ```sh
     # For backend
-    cd backend
+    cd backend/server
     npm start
 
     # For frontend
-    cd ../frontend
+    cd ../../frontend
     npm start
     ```
 
@@ -94,11 +94,12 @@ CourseHub is a comprehensive online ed-tech platform where students can purchase
 CourseHub/
 │
 ├── backend/              # Backend code
-│   ├── controllers/      # Controllers for handling requests
-│   ├── models/           # Mongoose models
-│   ├── routes/           # Express routes
-│   ├── middleware/       # Custom middleware
-│   └── server.js         # Entry point for the backend
+│   ├── server/           #server
+│       ├── controllers/      # Controllers for handling requests
+│       ├── models/           # Mongoose models
+│       ├── routes/           # Express routes
+│       ├── middleware/       # Custom middleware
+│       └── server.js         # Entry point for the backend
 │
 ├── frontend/             # Frontend code
 │   ├── public/           # Public assets
@@ -129,3 +130,7 @@ For any inquiries or feedback, please reach out to:
 - **Name:** Ronak Sharma
 - **Email:** ronaksharma.rk77@gmail.com
 - **GitHub:** [ronakshama77](https://github.com/ronaksharma77)
+
+- **Name:** Himanshu Agrawal
+- **Email:** a.himanshu6956@gmail.com
+- **GitHub:** [himanshu6956](https://github.com/himanshu6956)

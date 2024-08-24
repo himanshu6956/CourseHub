@@ -101,15 +101,15 @@ CourseHub/
 │       ├── middleware/       # Custom middleware
 │       └── server.js         # Entry point for the backend
 │
-├── frontend/             # Frontend code
-│   ├── public/           # Public assets
+├── frontend/                 # Frontend code
+│   ├── public/               # Public assets
 │   ├── src/
-│   │   ├── components/   # React components
-│   │   ├── pages/        # Page components
-│   │   ├── redux/        # Redux setup
-│   │   ├── utils/        # Utility functions
-│   │   └── App.js        # Main App component
-│   └── index.js          # Entry point for the frontend
+│   │   ├── components/       # React components
+│   │   ├── pages/            # Page components
+│   │   ├── redux/            # Redux setup
+│   │   ├── utils/            # Utility functions
+│   │   └── App.js            # Main App component
+│   └── index.js              # Entry point for the frontend
 │
 └── README.md             # This README file
 ```
